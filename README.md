@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ahmadjonov-98
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Engineering
 - 🌱 I’m currently learning CI CD pipline
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -> akhmadjonovr.98@gmail.com
