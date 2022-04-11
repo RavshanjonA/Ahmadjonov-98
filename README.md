@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Engineering
 - 🌱 I’m currently learning CI CD pipline
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me -> akhmadjonovr.98@gmail.com
+- 📫 How to reach me out on Linkedin: linkedin.com/in/ravshanjon-ahmadjonov/
 
 <!---
 Ahmadjonov-98/Ahmadjonov-98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
