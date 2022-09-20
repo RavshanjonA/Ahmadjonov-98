@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ahmadjonov-98
-- 👀 I’m interested in Web Engineering
-- 🌱 I’m currently learning CI CD pipline
+- 👀 I’m interested in Python Engeeniring
+- 🌱 I’m currently learning DS and CI&CD pipline
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me out on [Linkedin](https://www.linkedin.com/in/ravshanjon-ahmadjonov/)
 
